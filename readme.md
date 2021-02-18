@@ -1,3 +1,3 @@
 # merdo projesi
 
-bu proje mert ile boranın git eğitimini içermektedir.
+bu projede mert ile bora, git eğitimi yapıyorlar.
