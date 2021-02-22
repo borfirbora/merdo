@@ -420,3 +420,5 @@ Stack trace:
 [20-Feb-2021 19:39:28 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/techrhmh/mert.techredio.com/index.php on line 23
 [20-Feb-2021 20:01:34 UTC] PHP Parse error:  syntax error, unexpected 'header' (T_STRING) in /home/techrhmh/mert.techredio.com/sifreli-dosya.php on line 6
 [20-Feb-2021 20:02:40 UTC] PHP Parse error:  syntax error, unexpected 'header' (T_STRING) in /home/techrhmh/mert.techredio.com/sifreli-dosya.php on line 6
+[21-Feb-2021 07:01:23 UTC] PHP Parse error:  syntax error, unexpected 'header' (T_STRING) in /home/techrhmh/mert.techredio.com/footer.php on line 16
+[21-Feb-2021 07:01:42 UTC] PHP Parse error:  syntax error, unexpected 'header' (T_STRING) in /home/techrhmh/mert.techredio.com/footer.php on line 16
