@@ -1,13 +1,4 @@
-<!DOCTYPE html>
-<html lang="tr">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    </head>
-<body>
-    <footer>
-    <p>Bu sitenin tüm telif hakları <em>Mert Özer</em>'e aittir. Kaynak gösterilmeden ve izin alınmadan hiçbir içerik yayınlanamaz, çoğaltılamaz veya paylaşılamaz.</p>
+<p>Bu sitenin tüm telif hakları <em>Mert Özer</em>'e aittir. Kaynak gösterilmeden ve izin alınmadan hiçbir içerik yayınlanamaz, çoğaltılamaz veya paylaşılamaz.</p>
 
 <?php
 $kapat = $_POST['kapat'];
@@ -31,5 +22,3 @@ yertutucu.style = "display: none;"
 <?php
 }
 ?>
-</body>
-</html>

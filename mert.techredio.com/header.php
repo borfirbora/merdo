@@ -1,17 +1,15 @@
-<?php
-echo'    <header><h1 id="techrediohttpstechrediocom"><a href="https://techredio.com">Techredio</a></h1>
-<hr/>
-<p>Benim hakkımda herşey!</p></header>';
-?>
-
 <!DOCTYPE html>
 <html lang="tr">
 <head>
+    <title>Mert Özer | TechRedio | benim hakkımda herşey</title>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 <body>
+<header><h1 id="techrediohttpstechrediocom"><a href="https://techredio.com">Techredio</a></h1>
+<hr/>
+<p>Benim hakkımda herşey!</p></header>
 <div id="dialog">
 <dialog title="Youtube kanalıma siz de uğrayın">
 
@@ -23,7 +21,7 @@ echo'    <header><h1 id="techrediohttpstechrediocom"><a href="https://techredio.
 </div>
 <script>
     var modal = document.getElementByİd("dialog");
-showModal();    
+modal.style="display: block;";    
 function kapat(){
   modal.style="display: none;"
 
