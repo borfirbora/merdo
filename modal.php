@@ -12,12 +12,16 @@
             <p>Aşağıdaki paragrafı kapatmak için kapat düğmesine basın.</p>
 
             <div id="kapatma-paragraf">
-<p>Bu paragrafı kapat düğmesine basarak kapatamıyorum.!</p>
+<p>Sana sitemde en iyi deneyimi yaşatabilmek için TechRedio'da çerezler kullanıyorum. Sitemi kullanmaya devam ederek bunu kabul etmiş oluyorsun.</p>
         <button name="kapat" onclick="kapat()">Kapat</button>
     </div>
 <script>
 function kapat(){
+<<<<<<< HEAD:modal.html
 var a = document.getElementById('kapatma-paragraf');
+=======
+var a = document.getElementByİd('kapatma-paragraf');
+>>>>>>> b13a672e4ddd899fb4c78492abe9e4e2fa440366:modal.php
 a.style="display: none;";
 }
 </script>
